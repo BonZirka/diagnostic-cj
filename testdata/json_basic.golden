@@ -1,0 +1,25 @@
+{
+  "jsonrpc": "2.0",
+  "method": "textDocument/publishDiagnostics",
+  "params": {
+    "uri": "file:///golden.toml",
+    "diagnostics": [
+      {
+        "range": {
+          "start": {
+            "line": 2,
+            "character": 1
+          },
+          "end": {
+            "line": 2,
+            "character": 5
+          }
+        },
+        "severity": 1,
+        "code": "boom",
+        "source": "cjpm",
+        "message": "boom"
+      }
+    ]
+  }
+}

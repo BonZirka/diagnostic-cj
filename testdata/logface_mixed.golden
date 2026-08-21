@@ -1,0 +1,3 @@
+[warning] no code | second line (golden.toml:1:1)
+[error] boom: boom (golden.toml:12:3)
+[debug] colored-hint: hint ; note: hint here (other.toml)

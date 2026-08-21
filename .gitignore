@@ -1,0 +1,19 @@
+# Build artifacts
+target
+build-script-cache
+native/out
+
+# Editors
+.vscode
+
+# LSP server artifacts
+*.macrocall
+.cache
+
+# Examples build artifacts
+examples/target
+examples/build-script-cache
+examples/cjpm.lock
+
+# TODO
+TODO.md

@@ -1,0 +1,7 @@
+note: plain info
+  ==> golden.toml
+
+hint[colored-hint]: colored
+ ==> golden.toml:1:1
+1 | abc
+  | ^^

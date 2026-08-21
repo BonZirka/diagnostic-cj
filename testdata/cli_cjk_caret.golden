@@ -1,0 +1,5 @@
+error[wide-char]: wide char
+ ==> golden.toml:1:4
+1 | ab中文cd
+  |     ^^
+  | plain

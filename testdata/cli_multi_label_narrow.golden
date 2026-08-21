@@ -1,0 +1,4 @@
+error[narrow-multi-label]: mismatch
+ ==> golden.toml:1:40
+1 | ...defghijklmnopqrstuvwxyz
+  |              ^^^^^ expected String, found ?String

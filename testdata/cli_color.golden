@@ -1,0 +1,7 @@
+[34mnote[0m: plain info
+  [36m==>[0m golden.toml
+
+[34mhint[colored-hint][0m: colored
+ [36m==>[0m golden.toml:1:1
+[36m1[0m [36m|[0m abc
+  [36m|[0m [34m^^[0m

@@ -1,0 +1,7 @@
+error[multiline-message]: first line
+                          second line
+ ==> golden.toml:2:1
+  | one
+2 | two three
+  | ^^^
+  | four

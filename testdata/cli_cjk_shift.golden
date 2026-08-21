@@ -1,0 +1,4 @@
+error[shifted-window]: shifted window
+ ==> golden.toml:1:40
+1 | ...中中中中中中中中中中中中中中中...
+  |                          ^^

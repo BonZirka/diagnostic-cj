@@ -1,0 +1,5 @@
+error[boom]: boom
+ ==> golden.toml:3:2
+  | two three
+3 | four five
+  |  ^^^^

@@ -1,0 +1,6 @@
+error[conflict]: conflict
+ ==> golden.toml:1:1
+1 | alpha
+  | ^
+  | beta
+  = note: see here: other.toml

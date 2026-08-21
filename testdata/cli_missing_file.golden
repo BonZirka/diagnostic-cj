@@ -1,0 +1,5 @@
+error[missing-source]: missing src
+ ==> no_such_file_xyz.toml:1:1
+
+error[missing-source]: missing src 2
+ ==> no_such_file_xyz.toml:7:2

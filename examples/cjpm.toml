@@ -1,0 +1,9 @@
+[package]
+  cjc-version = "1.0.0"
+  name = "examples"
+  version = "1.0.0"
+  output-type = "executable"
+  src-dir = "."
+
+[dependencies]
+  diagnostic = { path = ".." }

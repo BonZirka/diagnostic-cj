@@ -1,0 +1,5 @@
+warning[tab-alignment]: tab alignment
+ ==> golden.toml:1:3
+1 | a       b
+  |         ^
+  | c       d
